@@ -1,0 +1,107 @@
+[
+    {
+        "taskName": "Learn Maths",
+        "discripation": "Learn chapter 1 and 2 for this task",
+        "startTime": "08:20",
+        "endTime": "10:30",
+        "date": "2021-07-24"
+    },
+    {
+        "taskName": "Learn Physic",
+        "discripation": "Learn chapter 1 ",
+        "startTime": "10:30",
+        "endTime": "11:30",
+        "date": "2021-07-24"
+    },
+    {
+        "taskName": "Solve code chef ",
+        "discripation": "Solve one problem",
+        "startTime": "11:30",
+        "endTime": "13:00",
+        "date": "2021-07-24"
+    },
+    {
+        "taskName": "Make algoredhm",
+        "discripation": "Linear search",
+        "startTime": "13:30",
+        "endTime": "15:30",
+        "date": "2021-07-24"
+    },
+    {
+        "taskName": "Learn os",
+        "discripation": "Learn chapter 1 ",
+        "startTime": "16:00",
+        "endTime": "18:30",
+        "date": "2021-07-24"
+    },
+    {
+        "taskName": "Learn Maths",
+        "discripation": "Learn chapter 1",
+        "startTime": "08:20",
+        "endTime": "10:30",
+        "date": "2021-07-26"
+    },
+    {
+        "taskName": "Learn Physic",
+        "discripation": "Learn ",
+        "startTime": "10:30",
+        "endTime": "11:30",
+        "date": "2021-07-26"
+    },
+    {
+        "taskName": "Solve code chef ",
+        "discripation": "Solve one problem",
+        "startTime": "11:30",
+        "endTime": "13:00",
+        "date": "2021-07-26"
+    },
+    {
+        "taskName": "Make algoredhm",
+        "discripation": "Linear search",
+        "startTime": "13:30",
+        "endTime": "15:30",
+        "date": "2021-07-26"
+    },
+    {
+        "taskName": "Learn os",
+        "discripation": "Learn chapter 1 ",
+        "startTime": "16:00",
+        "endTime": "18:30",
+        "date": "2021-07-26"
+    },
+    {
+        "taskName": "Learn Maths",
+        "discripation": "Learn chapter 1",
+        "startTime": "08:20",
+        "endTime": "10:30",
+        "date": "2021-07-26"
+    },
+    {
+        "taskName": "Learn Physic",
+        "discripation": "Learn ",
+        "startTime": "10:30",
+        "endTime": "11:30",
+        "date": "2021-07-26"
+    },
+    {
+        "taskName": "Solve code chef ",
+        "discripation": "Solve one problem",
+        "startTime": "11:30",
+        "endTime": "13:00",
+        "date": "2021-07-26"
+    },
+    {
+        "taskName": "Make algoredhm",
+        "discripation": "Linear search",
+        "startTime": "13:30",
+        "endTime": "15:30",
+        "date": "2021-07-26"
+    },
+    {
+        "taskName": "Learn os",
+        "discripation": "Learn chapter 1 ",
+        "startTime": "16:00",
+        "endTime": "18:30",
+        "date": "2021-07-26"
+    }
+]
