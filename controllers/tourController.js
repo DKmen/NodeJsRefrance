@@ -59,7 +59,6 @@ exports.getTask = async (req, res) => {
       .pagination();
 
     const allTask = await quary.quary;
-    console.log(allTask);
 
     if (!allTask.length) {
       throw new Error("page does not exist");
